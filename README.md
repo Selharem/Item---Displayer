@@ -2,15 +2,15 @@
 
 # Getting Started
 
-Install nodejs and npm.
+• Install nodejs and npm.
 
-*Create a new cluster on MongoDB (you can use mongoDB atlas without installing anything into your machine).
+• Create a new cluster on MongoDB (you can use mongoDB atlas without installing anything into your machine).
 
-*Copy the link to your cluster and paste it on config/keys.js.
+• Copy the link to your cluster and paste it on config/keys.js.
 
-*Checkout the repository onto your local machine.
+• Checkout the repository onto your local machine.
 
-*Use Postman to make HTTP Requests (or any other tool).
+• Use Postman to make HTTP Requests (or any other tool).
 
 # Happy Coding
 
