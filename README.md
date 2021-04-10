@@ -1,5 +1,8 @@
 # Item-Displayer
 
+This is a simple web app built with nodejs, express and mongoDB. It displays items added into the database. 
+You can contribute to the app if you'd like to !
+
 # Getting Started
 
 • Install nodejs and npm.
