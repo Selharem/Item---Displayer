@@ -15,6 +15,10 @@ You can contribute to the app if you'd like to !
 
 • Use Postman to make HTTP Requests (or any other tool).
 
+• Run `npm install` to install dependencies.
+
+• Run `npm start` to run the app.
+
 # Happy Coding
 
 ![Screenshot from 2021-04-10 15-17-20](https://user-images.githubusercontent.com/44909504/114277812-be787e80-9a24-11eb-972a-b1a6f78e983c.png)
