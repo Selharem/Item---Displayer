@@ -1,5 +1,5 @@
 module.exports = {
-//mongoURI : 'link to uri'
+//mongoURI : 'link to mongoDB cluster'
 }
 
 
