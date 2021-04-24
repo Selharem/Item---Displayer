@@ -17,7 +17,7 @@ You can contribute to the app if you'd like to !
 
 • Run `npm install` to install dependencies.
 
-• Run `npm start` to run the app.
+• Run `npm run dev` to run the app.
 
 # Happy Coding
 
