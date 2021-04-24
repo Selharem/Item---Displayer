@@ -4,7 +4,7 @@ const bodyParser = require('body-parser');
 
 const items = require('./routes/api/items');
 
-// Initialiser "express" dans une variable nommee "app"
+// Initialialise "express" 
 const app = express();
 
 // BodyParser Middleware
